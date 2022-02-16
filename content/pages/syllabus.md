@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 87b59981-3111-1a6c-32b2-38fe71e44634
 ---
@@ -103,7 +105,7 @@ Project proposal (group grade)
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Project milestone presentation slides
 {{< tdclose >}}
 {{< tdopen >}}
@@ -118,7 +120,7 @@ Project milestone presentation slides
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Project final presentation slides
 {{< tdclose >}}
 {{< tdopen >}}

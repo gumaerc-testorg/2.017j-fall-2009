@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Course Text
 uid: a1ae82bd-baca-7740-562c-d1f0ae24300c
 ---
