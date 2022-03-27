@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 107bb7c0-9134-4b2f-70e5-eee203b1a371
 resourcetype: Document
 title: Principles of Corrosion in Marine Environments
 uid: a4e4bd76-62cd-1315-f45d-1171d75ed7ac

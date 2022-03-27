@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 107bb7c0-9134-4b2f-70e5-eee203b1a371
 resourcetype: Document
 title: Stability and Trim of Marine Vessels
 uid: feba89ab-a74b-6dbf-71ea-d4f18284ccb5

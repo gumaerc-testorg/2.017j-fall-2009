@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 0a360554-985c-99fa-3796-247dbdb86c74
 resourcetype: Document
 title: Proposal for a Design of a Autonomous Bridge-Mapping Hydroplane
 uid: 03433f92-1fb2-ce01-4686-480d38e1d6ec

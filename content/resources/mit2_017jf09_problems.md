@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 93ea44dc-663a-95f3-02d4-4a220966879b
 resourcetype: Document
 title: 'System Design for Uncertainty: Worked Examples'
 uid: 19389d6d-3e4c-eab6-d4e3-07b0fbaf5c1c

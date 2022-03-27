@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 0a360554-985c-99fa-3796-247dbdb86c74
 resourcetype: Document
 title: Autonomous Navigation of a Quadrotor Helicopter Using GPS and Vision Control
 uid: b952caf9-9590-9ab1-3a7c-34814555e212

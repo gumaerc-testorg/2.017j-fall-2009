@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 0a360554-985c-99fa-3796-247dbdb86c74
 resourcetype: Document
 title: 'Milestone Presentation: Boat Crew'
 uid: 58a32f81-147e-6fbe-685d-dff8ee8d7e3a

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 107bb7c0-9134-4b2f-70e5-eee203b1a371
 resourcetype: Document
 title: 'Applying Optimization: Some Samples'
 uid: a1ea4a4b-1600-3ee9-f65c-83263e182151

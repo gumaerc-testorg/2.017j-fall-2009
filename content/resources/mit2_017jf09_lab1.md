@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: eec7391f-a43a-696f-8f85-b7b86b7f34db
 resourcetype: Document
 title: 'Lab 1: Introduction to Microcontrollers'
 uid: 3ccf965e-951c-f972-e6b9-e74ba13114b2

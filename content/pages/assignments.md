@@ -393,7 +393,7 @@ Nyquist plot
 
 ([PDF]({{< baseurl >}}/resources/mit2_017jf09_p39)),
 
-Data ([TXT](/courses/mechanical-engineering/2-017j-design-of-electromechanical-robotic-systems-fall-2009/assignments/homework9.txt))
+Data ([TXT]({{< baseurl >}}/resources/homework9))
 
 
 {{< tdclose >}}

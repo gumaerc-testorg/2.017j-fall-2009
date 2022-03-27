@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: eec7391f-a43a-696f-8f85-b7b86b7f34db
 resourcetype: Document
 title: 'Lab 3: GPS and Data Logging'
 uid: 71391f00-3454-85b1-e5f7-8e888ddd089d

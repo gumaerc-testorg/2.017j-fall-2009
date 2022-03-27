@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 0a360554-985c-99fa-3796-247dbdb86c74
 resourcetype: Document
 title: 'Final Presentation: Boat Crew'
 uid: 7c0787b0-c054-71d6-017f-771bbbbc154a

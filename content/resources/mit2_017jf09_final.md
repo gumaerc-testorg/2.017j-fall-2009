@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 0a360554-985c-99fa-3796-247dbdb86c74
 resourcetype: Document
 title: 'Final Presentation Slides: What We Expect'
 uid: bd87a37e-5091-7ab0-dceb-57f949b9b707

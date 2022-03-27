@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 93ea44dc-663a-95f3-02d4-4a220966879b
 resourcetype: Other
 title: 'Homework 4: Recorded RP Data'
 uid: 881b6d37-9c8c-632d-e0a4-b383d07c759c

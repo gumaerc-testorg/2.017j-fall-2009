@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 107bb7c0-9134-4b2f-70e5-eee203b1a371
 resourcetype: Document
 title: 'Presentations: Written and Spoken'
 uid: be41f137-97e1-8e33-d89b-9132530b2bdc

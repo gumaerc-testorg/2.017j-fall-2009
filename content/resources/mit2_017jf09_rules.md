@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: eec7391f-a43a-696f-8f85-b7b86b7f34db
 resourcetype: Document
 title: Lab Rules and Safety
 uid: bfe9a4c7-c6a9-2c74-79c9-d3ae22914bc9

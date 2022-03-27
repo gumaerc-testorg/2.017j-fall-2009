@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 107bb7c0-9134-4b2f-70e5-eee203b1a371
 resourcetype: Document
 title: Design for the Ocean Environment
 uid: 7151e72b-8574-0548-69f0-3394f07a843e

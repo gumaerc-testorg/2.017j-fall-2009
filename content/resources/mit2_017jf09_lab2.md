@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: eec7391f-a43a-696f-8f85-b7b86b7f34db
 resourcetype: Document
 title: 'Lab 2: Sensors and Signals'
 uid: 700e1a91-60b8-f7ba-a8dc-a8676a4c9e69

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 93ea44dc-663a-95f3-02d4-4a220966879b
 resourcetype: Other
 title: Compute Spectra
 uid: ea63d495-9ab0-41f9-2570-7a082c93b38d

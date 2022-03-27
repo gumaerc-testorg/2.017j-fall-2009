@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 93ea44dc-663a-95f3-02d4-4a220966879b
 resourcetype: Other
 title: 'Homework 7: I/O data'
 uid: 3b26be7e-7825-c0a3-1921-7f635ea9833b

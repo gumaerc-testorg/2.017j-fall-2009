@@ -10,6 +10,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Course Text
 parent_type: CourseSection
+parent_uid: a1ae82bd-baca-7740-562c-d1f0ae24300c
 resourcetype: Document
 title: System Design for Uncertainty
 uid: 41e4cc0e-5a0e-bd84-5ea4-f5e7c055fdf7

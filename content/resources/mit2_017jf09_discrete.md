@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 107bb7c0-9134-4b2f-70e5-eee203b1a371
 resourcetype: Document
 title: Introduction to Discrete-Time Systems
 uid: a0272c47-5e92-eb7d-ce1a-8b9deaac58c4

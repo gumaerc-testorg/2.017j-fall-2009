@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: eec7391f-a43a-696f-8f85-b7b86b7f34db
 resourcetype: Document
 title: 'Lab 4: Motor Control'
 uid: 0fa2c984-f8ba-5a09-0506-401ea2f5ff90
