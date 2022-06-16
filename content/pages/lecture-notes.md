@@ -1,13 +1,19 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics along with lecture
+  slides for selected topics.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
 title: Lecture Notes
 uid: 107bb7c0-9134-4b2f-70e5-eee203b1a371
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
-Lecture slides are available for selected topics. Please also see the [Course Text]({{< baseurl >}}/pages/course-text) page for extensive notes.
+Lecture slides are available for selected topics. Please also see the {{% resource_link a1ae82bd-baca-7740-562c-d1f0ae24300c "Course Text" %}} page for extensive notes.
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -27,7 +33,7 @@ SLIDES
 Concepts of design
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit2_017jf09_design))
+({{% resource_link 3a956ff5-ec6e-77b4-6b76-32a317546456 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -36,7 +42,7 @@ Concepts of design
 Experiments, tests, and data
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit2_017jf09_experiments))
+({{% resource_link bd430dfd-a1e0-1e3e-c489-7dca30fc69d2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -45,7 +51,7 @@ Experiments, tests, and data
 Electronics essentials
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit2_017jf09_electronics))
+({{% resource_link c3d201dc-b167-287e-ea26-6d41f2cf2d41 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -54,7 +60,7 @@ Electronics essentials
 Design for the ocean environment
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 2.2MB]({{< baseurl >}}/resources/mit2_017jf09_oceans))
+({{% resource_link 7151e72b-8574-0548-69f0-3394f07a843e "PDF - 2.2MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -63,7 +69,7 @@ Design for the ocean environment
 Applying optimization
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit2_017jf09_optimization))
+({{% resource_link a1ea4a4b-1600-3ee9-f65c-83263e182151 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -72,7 +78,7 @@ Applying optimization
 Stability and trim
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit2_017jf09_stability))
+({{% resource_link feba89ab-a74b-6dbf-71ea-d4f18284ccb5 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -81,7 +87,7 @@ Stability and trim
 General presentation guidelines
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit2_017jf09_presntations))
+({{% resource_link be41f137-97e1-8e33-d89b-9132530b2bdc "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -90,7 +96,7 @@ General presentation guidelines
 Corrosion in marine environments
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit2_017jf09_corrosion))
+({{% resource_link a4e4bd76-62cd-1315-f45d-1171d75ed7ac "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -99,7 +105,7 @@ Corrosion in marine environments
 Important vehicle power sources
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit2_017jf09_power))
+({{% resource_link a1619adf-73c7-6ea5-9f6f-7a18a98fb6c3 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -108,7 +114,7 @@ Important vehicle power sources
 Topics in machine elements
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.1MB]({{< baseurl >}}/resources/mit2_017jf09_machines))
+({{% resource_link 16cb0f85-0752-4220-26a8-5d838f30e340 "PDF - 1.1MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -117,7 +123,7 @@ Topics in machine elements
 Navigation sensors and systems
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit2_017jf09_navigation))
+({{% resource_link 29bd12e4-c5ef-e888-fafa-bfce35a276ce "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -126,7 +132,7 @@ Navigation sensors and systems
 Basic physics of underwater acoustics
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit2_017jf09_acoustics))
+({{% resource_link 9647b0bb-5dbe-2f57-0cb1-4fe0a4c58d0a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -135,7 +141,7 @@ Basic physics of underwater acoustics
 Introduction to discrete-time systems
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit2_017jf09_discrete))
+({{% resource_link a0272c47-5e92-eb7d-ce1a-8b9deaac58c4 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -144,7 +150,7 @@ Introduction to discrete-time systems
 Feedback control
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit2_017jf09_feedback))
+({{% resource_link 28a80959-68b3-e991-89fe-8c619640a2e1 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -153,7 +159,7 @@ Feedback control
 Control system design
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit2_017jf09_control))
+({{% resource_link bfcda6f4-0bad-59b6-1b3f-28ab8da1c86f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

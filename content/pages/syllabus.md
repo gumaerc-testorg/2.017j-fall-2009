@@ -1,9 +1,16 @@
 ---
 content_type: page
+description: This syllabus section provides an overview of the learning objectives
+  of the course and information on meeting times, prerequisites, grading, homework,
+  lab notebooks, attendance, and participation.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
 uid: 87b59981-3111-1a6c-32b2-38fe71e44634
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Course Meeting Times

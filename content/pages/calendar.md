@@ -1,9 +1,15 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics and key dates for
+  the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
 uid: df5e63ff-8c3f-cf7e-32cd-20fae4ed96c7
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 {{< tableopen >}}
@@ -56,7 +62,7 @@ Project meeting
 
 {{< tdclose >}}
 {{< tdopen >}}
-Assign [HW 1]({{< baseurl >}}/pages/assignments#Autonomous)
+Assign {{% resource_link 93ea44dc-663a-95f3-02d4-4a220966879b "HW 1" "#Autonomous" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -92,7 +98,7 @@ Assign project proposal (due in 1 week)
 
 Collect HW 1
 
-Assign [HW 2]({{< baseurl >}}/pages/assignments#Ranging)
+Assign {{% resource_link 93ea44dc-663a-95f3-02d4-4a220966879b "HW 2" "#Ranging" %}}
 
 
 {{< tdclose >}}
@@ -130,7 +136,7 @@ Collect project proposal
 
 Collect HW 2
 
-Assign [HW 3]({{< baseurl >}}/pages/assignments#Road)
+Assign {{% resource_link 93ea44dc-663a-95f3-02d4-4a220966879b "HW 3" "#Road" %}}
 
 
 {{< tdclose >}}
@@ -166,7 +172,7 @@ Project meeting
 
 Collect HW 3
 
-Assign [HW 4]({{< baseurl >}}/pages/assignments#Computations)
+Assign {{% resource_link 93ea44dc-663a-95f3-02d4-4a220966879b "HW 4" "#Computations" %}}
 
 
 {{< tdclose >}}
@@ -196,7 +202,7 @@ System Design: Revisited, tools and applications
 
 Collect HW 4
 
-Assign [HW 5]({{< baseurl >}}/pages/assignments#Identification)
+Assign {{% resource_link 93ea44dc-663a-95f3-02d4-4a220966879b "HW 5" "#Identification" %}}
 
 
 {{< tdclose >}}
@@ -220,7 +226,7 @@ Project meeting
 
 Collect HW 5
 
-Assign [HW 6]({{< baseurl >}}/pages/assignments#Flight)
+Assign {{% resource_link 93ea44dc-663a-95f3-02d4-4a220966879b "HW 6" "#Flight" %}}
 
 
 {{< tdclose >}}
@@ -256,7 +262,7 @@ Project meeting
 
 Collect HW 6
 
-Assign [HW 7]({{< baseurl >}}/pages/assignments#Redux)
+Assign {{% resource_link 93ea44dc-663a-95f3-02d4-4a220966879b "HW 7" "#Redux" %}}
 
 
 {{< tdclose >}}
@@ -292,7 +298,7 @@ Project meeting
 
 Collect HW 7
 
-Assign [HW 8]({{< baseurl >}}/pages/assignments#Monte)
+Assign {{% resource_link 93ea44dc-663a-95f3-02d4-4a220966879b "HW 8" "#Monte" %}}
 
 
 {{< tdclose >}}
@@ -334,7 +340,7 @@ Project meeting
 
 Collect HW 8
 
-Assign [HW 9]({{< baseurl >}}/pages/assignments#Hurricane)
+Assign {{% resource_link 93ea44dc-663a-95f3-02d4-4a220966879b "HW 9" "#Hurricane" %}}
 
 
 {{< tdclose >}}

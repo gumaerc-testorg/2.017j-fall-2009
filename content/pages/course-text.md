@@ -1,16 +1,22 @@
 ---
 content_type: page
+description: This section provides a list of course topics, individual chapters of
+  the course text, and the entire course text as one file.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Course Text
 uid: a1ae82bd-baca-7740-562c-d1f0ae24300c
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 The key ingredient in this course - and what differentiates it from many other related courses - is the uncertainty that is encountered whenever a built system is actually installed in the field. We may find uncertainty in the operating environment, whether it is a windy airspace, a bumpy road, or an obstacle-strewn factory floor. We also find uncertainty in the parameters that define a system, for example, masses and stiffnesses and dampings, torque constants, and physical size. Finally, since complex electromechanical systems involve sensors and actuators, we have to acknowledge uncertainty in measurement and feedback control. Ultimately, such systems are meant to accomplish specific objectives, and the designer's task is to achieve robustness, performance, and cost-effectiveness in the presence of uncertainty.
 
-The notes given here are terse but intended to be self-contained. The goal is to provide fundamental relations useful for modeling and creating systems that have to operate with uncertainty. As a motivation, we focus a lot of attention on ocean waves as a prototypical random environment, and carry out simplified, linear motion and force analysis for marine structures and vehicles. Individual chapters are listed in the table below, or the entire text may be downloaded as one file. A separate compilation of solved homework problems is also available on the [assignments]({{< baseurl >}}/pages/assignments) page.
+The notes given here are terse but intended to be self-contained. The goal is to provide fundamental relations useful for modeling and creating systems that have to operate with uncertainty. As a motivation, we focus a lot of attention on ocean waves as a prototypical random environment, and carry out simplified, linear motion and force analysis for marine structures and vehicles. Individual chapters are listed in the table below, or the entire text may be downloaded as one file. A separate compilation of solved homework problems is also available on the {{% resource_link 93ea44dc-663a-95f3-02d4-4a220966879b "assignments" %}} page.
 
-Hover, Franz S., and Michael S. Triantafyllou. _System Design for Uncertainty_. Cambridge, MA: MIT Center for Ocean Engineering, 2010. ([PDF - 1.3MB]({{< baseurl >}}/resources/mit2_017jf09_coursetext)) (Courtesy of Michael S. Triantafyllou. Used with permission.)
+Hover, Franz S., and Michael S. Triantafyllou. _System Design for Uncertainty_. Cambridge, MA: MIT Center for Ocean Engineering, 2010. ({{% resource_link 41e4cc0e-5a0e-bd84-5ea4-f5e7c055fdf7 "PDF - 1.3MB" %}}) (Courtesy of Michael S. Triantafyllou. Used with permission.)
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -30,7 +36,7 @@ FILES
 Chapter 1: Introduction
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit2_017jf09_ch01))
+({{% resource_link 15bf0a9b-95b5-ff67-e97b-4e644824157a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -63,7 +69,7 @@ Chapter 2: Linear Systems
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit2_017jf09_ch02))
+({{% resource_link 54feab6a-fd0c-a9bb-339e-4f38e21d45c3 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -92,7 +98,7 @@ Chapter 3: Probability Events
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit2_017jf09_ch03))
+({{% resource_link 1b487381-0be3-44ca-68fc-663e1b84df87 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -117,7 +123,7 @@ Chapter 4: Random Processes
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit2_017jf09_ch04))
+({{% resource_link 38fd964b-9e18-10fb-a2bc-811856501762 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -142,7 +148,7 @@ Chapter 5: Short Term Statistics
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit2_017jf09_ch05))
+({{% resource_link 1a8c8210-908b-4b39-6ee3-d9f5408e6e64 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -171,7 +177,7 @@ Chapter 6: Water Waves
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit2_017jf09_ch06))
+({{% resource_link 51e6a1ab-5a7f-a993-7bdb-7aca645897fd "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -198,7 +204,7 @@ Chapter 7: Optimization
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit2_017jf09_ch07))
+({{% resource_link d5b03075-7697-7fa9-c4fd-b7362edc06e2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -219,7 +225,7 @@ Chapter 8: Stochastic Simulation
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit2_017jf09_ch08))
+({{% resource_link 063b7432-ab71-ed5a-0ec5-36a411339f17 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -240,7 +246,7 @@ Chapter 9: Kinematics of Moving Frames
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit2_017jf09_ch09))
+({{% resource_link 0da9fb39-6541-0fd5-0979-bb179b56805a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -269,7 +275,7 @@ Chapter 10: Vehicle Internal Dynamics
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit2_017jf09_ch10))
+({{% resource_link c50dc54c-da71-f0ec-167b-6d32c27e2698 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -302,7 +308,7 @@ Chapter 11: Control Fundamentals
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit2_017jf09_ch11))
+({{% resource_link d98dc04f-3311-eb4e-8c78-6a342dd07f87 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -329,7 +335,7 @@ Chapter 12: Control Systems — Loop Shaping
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit2_017jf09_ch12))
+({{% resource_link 201df1a0-02af-9503-6094-e9034cafd80d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -346,7 +352,7 @@ Chapter 13: Math Facts
 
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit2_017jf09_ch13))
+({{% resource_link b39075d4-d69f-3064-dd17-5539bed040e7 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
