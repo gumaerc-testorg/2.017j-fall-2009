@@ -7,6 +7,7 @@ file: /courses/2-017j-design-of-electromechanical-robotic-systems-fall-2009/3a95
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -20,4 +21,3 @@ video_metadata:
   youtube_id: null
 ---
 Lecture presentation on the concepts of design, tradeoffs, the objectives tree, decision matrices, knowledge versus confidence, function analysis, complexity, and Gantt charts.
-

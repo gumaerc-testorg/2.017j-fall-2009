@@ -6,6 +6,7 @@ file: /courses/2-017j-design-of-electromechanical-robotic-systems-fall-2009/7c1e
 file_type: text/plain
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Homework 9: Hurricane Ida Wind Data'
 uid: 7c1eac09-b084-00af-5e92-156b15c60b76
 ---
 Supporting data file for a homework assignment: wind data recorded at Weather Station "Larchmont-Cornicks," in Norfolk.
-

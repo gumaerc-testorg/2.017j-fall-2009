@@ -6,6 +6,7 @@ file: /courses/2-017j-design-of-electromechanical-robotic-systems-fall-2009/7c07
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 Example of student work: final presentation for a group project on the design of an autonomous bridge-mapping hydroplane.
-

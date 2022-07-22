@@ -6,6 +6,7 @@ file: /courses/2-017j-design-of-electromechanical-robotic-systems-fall-2009/1938
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 A compendium of worked problems meant to accompany the course notes for a course on the design of electromechanical robotic systems.
-

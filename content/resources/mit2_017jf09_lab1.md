@@ -6,6 +6,7 @@ file: /courses/2-017j-design-of-electromechanical-robotic-systems-fall-2009/3ccf
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 Lab assignment intended to familiarize students with the lab space, the equipment in the lab, and the Arduino microcontroller.
-

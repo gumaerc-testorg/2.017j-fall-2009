@@ -5,6 +5,7 @@ file: /courses/2-017j-design-of-electromechanical-robotic-systems-fall-2009/be41
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 Lecture slides providing general guidelines for giving presentations.
-
