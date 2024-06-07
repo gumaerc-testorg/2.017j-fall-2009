@@ -3,6 +3,7 @@ content_type: resource
 description: Guidelines for creating a project proposal for the group projects of
   the course.
 file: /courses/2-017j-design-of-electromechanical-robotic-systems-fall-2009/42d60711d5bcd420291c98ae2a1f7267_MIT2_017JF09_proposal.pdf
+file_size: 64608
 file_type: application/pdf
 learning_resource_types:
 - Projects

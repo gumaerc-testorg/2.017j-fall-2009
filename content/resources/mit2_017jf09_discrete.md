@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture presentation on discrete-time systems and time resolution in
   sampled systems.
 file: /courses/2-017j-design-of-electromechanical-robotic-systems-fall-2009/a0272c475e92eb7dce1a8b9deaac58c4_MIT2_017JF09_discrete.pdf
+file_size: 565718
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
