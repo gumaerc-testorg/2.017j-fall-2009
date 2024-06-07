@@ -3,6 +3,7 @@ content_type: resource
 description: 'Example of student work: milestone presentation for a group project
   on the design of an autonomous bridge-mapping hydroplane.'
 file: /courses/2-017j-design-of-electromechanical-robotic-systems-fall-2009/58a32f81147e6fbe685ddff8ee8d7e3a_MIT2_017JF09_sw2_milstone.pdf
+file_size: 3642311
 file_type: application/pdf
 learning_resource_types:
 - Projects

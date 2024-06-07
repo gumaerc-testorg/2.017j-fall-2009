@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture presentation on design for the ocean environment, waves, categories
   of vehicles, and aerodynamics.
 file: /courses/2-017j-design-of-electromechanical-robotic-systems-fall-2009/7151e72b8574054869f03394f07a843e_MIT2_017JF09_oceans.pdf
+file_size: 2294539
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

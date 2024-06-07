@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture presentation on the basic physics of underwater acoustics.
 file: /courses/2-017j-design-of-electromechanical-robotic-systems-fall-2009/9647b0bb5dbe2f570cb14fe0a4c58d0a_MIT2_017JF09_acoustics.pdf
+file_size: 308776
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

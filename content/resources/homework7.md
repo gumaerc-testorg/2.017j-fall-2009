@@ -3,6 +3,7 @@ content_type: resource
 description: Data file for a homework assignment on identification of a response amplitude
   operator from data.
 file: /courses/2-017j-design-of-electromechanical-robotic-systems-fall-2009/3b26be7e7825c0a319217f635ea9833b_homework7.dat
+file_size: 500050
 file_type: chemical/x-mopac-input
 learning_resource_types:
 - Assignments
