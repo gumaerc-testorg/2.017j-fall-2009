@@ -3,6 +3,7 @@ content_type: resource
 description: 'Supporting data file for a homework assignment: wind data recorded at
   Weather Station "Larchmont-Cornicks," in Norfolk.'
 file: /courses/2-017j-design-of-electromechanical-robotic-systems-fall-2009/7c1eac09b08400af5e92156b15c60b76_homework9.txt
+file_size: 16618
 file_type: text/plain
 learning_resource_types:
 - Assignments

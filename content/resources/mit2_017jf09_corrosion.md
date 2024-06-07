@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture presentation on the Principles of Corrosion in Marine Environments,
   electrochemistry, coatings, sacrificial anodes, impressed current, and passivation.
 file: /courses/2-017j-design-of-electromechanical-robotic-systems-fall-2009/a4e4bd7662cd1315f45d1171d75ed7ac_MIT2_017JF09_corrosion.pdf
+file_size: 236649
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

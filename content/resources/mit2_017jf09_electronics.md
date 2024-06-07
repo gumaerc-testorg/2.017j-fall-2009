@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture presentation on electronics, the op-amp, serial communications,
   pulse width modulation (PWM), field effect transistor (FET), and motors.
 file: /courses/2-017j-design-of-electromechanical-robotic-systems-fall-2009/c3d201dcb167287eea266d41f2cf2d41_MIT2_017JF09_electronics.pdf
+file_size: 321754
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

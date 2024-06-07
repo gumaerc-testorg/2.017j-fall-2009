@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture presentation on power systems for marine applications, fuel engines,
   batteries, and fuel cells.
 file: /courses/2-017j-design-of-electromechanical-robotic-systems-fall-2009/a1619adf73c76ea59f6f7a18a98fb6c3_MIT2_017JF09_power.pdf
+file_size: 282277
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
