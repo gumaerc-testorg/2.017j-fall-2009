@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture slides providing general guidelines for giving presentations.
-file: /courses/2-017j-design-of-electromechanical-robotic-systems-fall-2009/be41f13797e18e33d89b9132530b2bdc_MIT2_017JF09_presntations.pdf
+file: /ol-ocw-studio-app/courses/2-017j-design-of-electromechanical-robotic-systems-fall-2009/be41f13797e18e33d89b9132530b2bdc_MIT2_017JF09_presntations.pdf
 file_size: 573898
 file_type: application/pdf
 learning_resource_types:

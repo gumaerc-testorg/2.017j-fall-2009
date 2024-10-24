@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Data file for a homework assignment on computations on recorded RP data.
-file: /courses/2-017j-design-of-electromechanical-robotic-systems-fall-2009/881b6d379c8c632de0a4b383d07c759c_homework4.dat
+file: /ol-ocw-studio-app/courses/2-017j-design-of-electromechanical-robotic-systems-fall-2009/881b6d379c8c632de0a4b383d07c759c_homework4.dat
 file_size: 340034
 file_type: chemical/x-mopac-input
 learning_resource_types:
