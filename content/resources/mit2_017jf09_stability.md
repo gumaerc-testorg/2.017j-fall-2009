@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture presentation on buoyancy, stability, and trim of marine vessels.
-file: /courses/2-017j-design-of-electromechanical-robotic-systems-fall-2009/feba89aba74b6dbf71ead4f18284ccb5_MIT2_017JF09_stability.pdf
+file: /ol-ocw-studio-app/courses/2-017j-design-of-electromechanical-robotic-systems-fall-2009/feba89aba74b6dbf71ead4f18284ccb5_MIT2_017JF09_stability.pdf
 file_size: 1198668
 file_type: application/pdf
 learning_resource_types:
