@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Example of student work: milestone presentation for a group project
   on autonomous navigation of a quadrotor helicopter using GPS and vision control.'
-file: /ol-ocw-studio-app/courses/2-017j-design-of-electromechanical-robotic-systems-fall-2009/b952caf995909ab13a7c34814555e212_MIT2_017JF09_sw1_milstone.pdf
+file: /courses/2-017j-design-of-electromechanical-robotic-systems-fall-2009/b952caf995909ab13a7c34814555e212_MIT2_017JF09_sw1_milstone.pdf
 file_size: 999431
 file_type: application/pdf
 learning_resource_types:

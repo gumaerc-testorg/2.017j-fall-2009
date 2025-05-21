@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture presentation on feedback control and the components of engineered
   feedback systems.
-file: /ol-ocw-studio-app/courses/2-017j-design-of-electromechanical-robotic-systems-fall-2009/28a8095968b3e99189fe8c619640a2e1_MIT2_017JF09_feedback.pdf
+file: /courses/2-017j-design-of-electromechanical-robotic-systems-fall-2009/28a8095968b3e99189fe8c619640a2e1_MIT2_017JF09_feedback.pdf
 file_size: 436839
 file_type: application/pdf
 learning_resource_types:

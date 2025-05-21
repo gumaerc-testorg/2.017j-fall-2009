@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Data file for a homework assignment on spectral analysis.
-file: /ol-ocw-studio-app/courses/2-017j-design-of-electromechanical-robotic-systems-fall-2009/ea63d4959ab041f925707a082c93b38d_computespectra.dat
+file: /courses/2-017j-design-of-electromechanical-robotic-systems-fall-2009/ea63d4959ab041f925707a082c93b38d_computespectra.dat
 file_size: 131090
 file_type: chemical/x-mopac-input
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: Guidelines and grading rubric for milestone presentations for course
   projects.
-file: /ol-ocw-studio-app/courses/2-017j-design-of-electromechanical-robotic-systems-fall-2009/27892d8374d7ef7583e0b07c98bc39f1_MIT2_017JF09_milestone.pdf
+file: /courses/2-017j-design-of-electromechanical-robotic-systems-fall-2009/27892d8374d7ef7583e0b07c98bc39f1_MIT2_017JF09_milestone.pdf
 file_size: 63922
 file_type: application/pdf
 learning_resource_types:

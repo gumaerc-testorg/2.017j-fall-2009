@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture presentation on experiments, tests, data, controls, calibration,
   and statistics.
-file: /ol-ocw-studio-app/courses/2-017j-design-of-electromechanical-robotic-systems-fall-2009/bd430dfda1e01e3ec4897dca30fc69d2_MIT2_017JF09_experiments.pdf
+file: /courses/2-017j-design-of-electromechanical-robotic-systems-fall-2009/bd430dfda1e01e3ec4897dca30fc69d2_MIT2_017JF09_experiments.pdf
 file_size: 722101
 file_type: application/pdf
 learning_resource_types:
