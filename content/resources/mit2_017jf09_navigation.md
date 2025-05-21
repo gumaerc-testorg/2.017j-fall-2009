@@ -3,7 +3,7 @@ content_type: resource
 description: Lecture presentation on navigation sensors and systems, coordinate frames,
   dead-reckoning, inertial navigation, ranging systems for positioning, and acoustic
   ranging.
-file: /ol-ocw-studio-app/courses/2-017j-design-of-electromechanical-robotic-systems-fall-2009/29bd12e4c5efe888fafabfce35a276ce_MIT2_017JF09_navigation.pdf
+file: /courses/2-017j-design-of-electromechanical-robotic-systems-fall-2009/29bd12e4c5efe888fafabfce35a276ce_MIT2_017JF09_navigation.pdf
 file_size: 373703
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: Lab assignment intended to familiarize students with the lab space, the
   equipment in the lab, and the Arduino microcontroller.
-file: /ol-ocw-studio-app/courses/2-017j-design-of-electromechanical-robotic-systems-fall-2009/3ccf965e951cf972e6b9e74ba13114b2_MIT2_017JF09_lab1.pdf
+file: /courses/2-017j-design-of-electromechanical-robotic-systems-fall-2009/3ccf965e951cf972e6b9e74ba13114b2_MIT2_017JF09_lab1.pdf
 file_size: 232975
 file_type: application/pdf
 learning_resource_types:
