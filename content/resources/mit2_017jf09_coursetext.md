@@ -4,7 +4,7 @@ description: 'Textbook on system design for uncertainty. Topics include: linear 
   probability events, random processes, short term statistics, water waves, optimization,
   stochastic simulation, kinematics of moving frames, vehicle internal dynamics, control
   fundamentals, control systems, loop shaping, and math facts.'
-file: /ol-ocw-studio-app/courses/2-017j-design-of-electromechanical-robotic-systems-fall-2009/41e4cc0e5a0ebd845ea4f5e7c055fdf7_MIT2_017JF09_coursetext.pdf
+file: /courses/2-017j-design-of-electromechanical-robotic-systems-fall-2009/41e4cc0e5a0ebd845ea4f5e7c055fdf7_MIT2_017JF09_coursetext.pdf
 file_size: 1348909
 file_type: application/pdf
 learning_resource_types: []

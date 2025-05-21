@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Descriptions of the two field robotics projects of the course.
-file: /ol-ocw-studio-app/courses/2-017j-design-of-electromechanical-robotic-systems-fall-2009/40bfc2b0a047f4e37efd1f5aadda276c_MIT2_017JF09_options.pdf
+file: /courses/2-017j-design-of-electromechanical-robotic-systems-fall-2009/40bfc2b0a047f4e37efd1f5aadda276c_MIT2_017JF09_options.pdf
 file_size: 183132
 file_type: application/pdf
 learning_resource_types:

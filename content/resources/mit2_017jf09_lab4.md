@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Lab assignment on controlling a DC motor using the Arduino microcontroller
   board and the Motor Shield. '
-file: /ol-ocw-studio-app/courses/2-017j-design-of-electromechanical-robotic-systems-fall-2009/6a08e813874b2ea03bf9e4f4e12647b5_MIT2_017JF09_lab4.pdf
+file: /courses/2-017j-design-of-electromechanical-robotic-systems-fall-2009/6a08e813874b2ea03bf9e4f4e12647b5_MIT2_017JF09_lab4.pdf
 file_size: 238235
 file_type: application/pdf
 learning_resource_types:
