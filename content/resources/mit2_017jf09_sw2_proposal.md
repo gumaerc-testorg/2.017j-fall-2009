@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Example of student work: project proposal for a group project on the
   design of a autonomous bridge-mapping hydroplane.'
-file: /courses/2-017j-design-of-electromechanical-robotic-systems-fall-2009/03433f921fb2ce014686480d38e1d6ec_MIT2_017JF09_sw2_proposal.pdf
+file: /ol-ocw-studio-app/courses/2-017j-design-of-electromechanical-robotic-systems-fall-2009/03433f921fb2ce014686480d38e1d6ec_MIT2_017JF09_sw2_proposal.pdf
 file_size: 187285
 file_type: application/pdf
 learning_resource_types:

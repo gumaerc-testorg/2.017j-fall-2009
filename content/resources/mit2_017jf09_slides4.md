@@ -2,11 +2,11 @@
 content_type: resource
 description: Lab assignment on motor control, DC motor experiments, processing encoder
   signals, and controlling a servo.
-file: /courses/2-017j-design-of-electromechanical-robotic-systems-fall-2009/0fa2c984f8ba5a090506401ea2f5ff90_MIT2_017JF09_slides4.pdf
+file: /ol-ocw-studio-app/courses/2-017j-design-of-electromechanical-robotic-systems-fall-2009/0fa2c984f8ba5a090506401ea2f5ff90_MIT2_017JF09_slides4.pdf
 file_size: 1043036
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs

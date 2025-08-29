@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture presentation on linear optimization, min-max optimization, dynamic
   programming, and Lagrange multipliers.
-file: /courses/2-017j-design-of-electromechanical-robotic-systems-fall-2009/a1ea4a4b16003ee9f65c83263e182151_MIT2_017JF09_optimization.pdf
+file: /ol-ocw-studio-app/courses/2-017j-design-of-electromechanical-robotic-systems-fall-2009/a1ea4a4b16003ee9f65c83263e182151_MIT2_017JF09_optimization.pdf
 file_size: 281087
 file_type: application/pdf
 learning_resource_types:
