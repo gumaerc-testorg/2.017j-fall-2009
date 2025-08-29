@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture presentation on machine elements and engineering materials.
-file: /courses/2-017j-design-of-electromechanical-robotic-systems-fall-2009/16cb0f850752422026a85d838f30e340_MIT2_017JF09_machines.pdf
+file: /ol-ocw-studio-app/courses/2-017j-design-of-electromechanical-robotic-systems-fall-2009/16cb0f850752422026a85d838f30e340_MIT2_017JF09_machines.pdf
 file_size: 1008318
 file_type: application/pdf
 learning_resource_types:

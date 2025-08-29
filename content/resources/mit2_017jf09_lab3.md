@@ -2,11 +2,11 @@
 content_type: resource
 description: Lab assignment on how to acquire, log, and process GPS data using the
   Arduino microcontroller board and the GPS logger shield.
-file: /courses/2-017j-design-of-electromechanical-robotic-systems-fall-2009/3b65623c3b6037de5d92178b89b956c8_MIT2_017JF09_lab3.pdf
+file: /ol-ocw-studio-app/courses/2-017j-design-of-electromechanical-robotic-systems-fall-2009/3b65623c3b6037de5d92178b89b956c8_MIT2_017JF09_lab3.pdf
 file_size: 127575
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
