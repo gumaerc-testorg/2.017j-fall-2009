@@ -2,11 +2,11 @@
 content_type: resource
 description: Lab assignment on how to take sensor measurements and to process the
   acquired data using the Arduino microcontroller board.
-file: /courses/2-017j-design-of-electromechanical-robotic-systems-fall-2009/700e1a9160b8f7baa8dca8676a4c9e69_MIT2_017JF09_lab2.pdf
+file: /ol-ocw-studio-app/courses/2-017j-design-of-electromechanical-robotic-systems-fall-2009/700e1a9160b8f7baa8dca8676a4c9e69_MIT2_017JF09_lab2.pdf
 file_size: 258722
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
